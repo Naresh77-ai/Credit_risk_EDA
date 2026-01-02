@@ -12,13 +12,13 @@ When a bank receives a loan application, it must decide whether to approve the l
 
 The goal of this project is to use EDA to find the key driver variables behind default, enabling the lender to take actions such as:
 
-rejecting highly risky applicants,
+- rejecting highly risky applicants,
 
-reducing loan amounts for risky profiles,
+- reducing loan amounts for risky profiles,
 
-offering loans at higher interest rates based on risk,
+- offering loans at higher interest rates based on risk,
 
-improving overall portfolio quality without rejecting genuine borrowers.
+- improving overall portfolio quality without rejecting genuine borrowers.
 
 🗂️ Dataset Overview
 
@@ -26,19 +26,14 @@ This analysis uses two datasets:
 
 1) application_data.csv
 
-Contains information about the client at the time of application, including demographic and financial details.
+- Contains information about the client at the time of application, including demographic and financial details.
 
-Purpose: Identify patterns indicating whether an applicant is likely to face payment difficulties.
+- Purpose: Identify patterns indicating whether an applicant is likely to face payment difficulties.
 
 2) previous_application.csv
 
-Contains the client’s previous loan application history and its outcomes.
+- Contains the client’s previous loan application history and its outcomes.
 
-Includes outcomes like: Approved, Cancelled, Refused, Unused offer
+- Includes outcomes like: Approved, Cancelled, Refused, Unused offer
 
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
-
-Includes outcomes like: Approved, Cancelled, Refused, Unused offer
-
-Purpose: Understand how past application history and outcomes relate to current default risk.
+- Purpose: Understand how past application history and outcomes relate to current default risk.
