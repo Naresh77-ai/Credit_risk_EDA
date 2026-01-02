@@ -36,9 +36,6 @@ Contains the client’s previous loan application history and its outcomes.
 
 Includes outcomes like: Approved, Cancelled, Refused, Unused offer
 
-Purpose: Understand how past application history and outcomes relate to current default risk.
-
-If you want, I can also add a “Key Questions Answered” section (3–5 bullets) that makes the README even more recruiter-focused.
 
 ChatGPT can make mistakes. Check important info. See Cookie Preferences.
 
