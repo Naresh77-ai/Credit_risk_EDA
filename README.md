@@ -37,3 +37,17 @@ This analysis uses two datasets:
 - Includes outcomes like: Approved, Cancelled, Refused, Unused offer
 
 - Purpose: Understand how past application history and outcomes relate to current default risk.
+
+🔧 Data Preparation & EDA (Summary)
+
+- Dropped columns with >40% missing values.
+
+- Renamed columns for better readability.
+
+- Imputed missing values using mean (numeric) and mode (categorical).
+
+- Performed required feature/column transformations (cleaning + formatting).
+
+- Conducted univariate and bivariate analysis to uncover patterns.
+
+- Analyzed correlations to understand relationships and key drivers.
