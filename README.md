@@ -51,3 +51,11 @@ This analysis uses two datasets:
 - Conducted univariate and bivariate analysis to uncover patterns.
 
 - Analyzed correlations to understand relationships and key drivers.
+
+✅ Key Findings & Conclusion
+
+- Identified the key factors/driver variables strongly associated with loan defaults (payment difficulties) through EDA.
+
+- Segmented applicants into risk patterns to understand which customer profiles are safer vs. riskier.
+
+- Derived actionable insights to help the bank prioritize lending to low-risk, high-repayment-probability customers, improving portfolio quality while reducing default exposure.
